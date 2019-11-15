@@ -296,3 +296,4 @@ $ docker-compose down --volumes
 ```
 
 At this point, you have seen the basics of how Compose works.
+<a href="4_wordpress.md">Goto next section.</a>
